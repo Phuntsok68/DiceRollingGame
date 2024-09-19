@@ -1,4 +1,4 @@
-
+#🎲 Dice Rolling Game
 This game is a simple dice-rolling game implemented using JavaScript and DOM manipulation. The objective is for two players to take turns rolling a dice to accumulate points. The first player to reach a score of 20 wins.
 
 Here’s how it works:
